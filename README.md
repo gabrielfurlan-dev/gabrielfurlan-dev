@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Garcia 👍
+### Olá! Eu sou o Gabriel Furlan!
 
 
 _____
