@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Furlan</h1>
 <h3 align="center">A .NET developer from Brazil.</h3>
-
-- 🔭 I’m currently working on **Cccuracy System**
-
-- 📫 How to reach me **gabrielcarlos1023@gmail.com**
-
+</br></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfurlan-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabrielfurlan-dev" /></p>
 
